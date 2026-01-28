@@ -1,0 +1,100 @@
+version: '2.0.0'
+metadata:
+  last_updated: 'January 24, 2026'
+
+personal_info:
+  name: 'Eric X. Zdanowski'
+  profile_picture: ''
+  titles:
+    asset_mgmt_focused: 'Senior Analyst, Asset Management | Flexible-Living & Hospitality'
+    finreporting_focused: 'Financial Reporting & Analysis | USALI & GAAP Specialist'
+    proptech_focused: 'AI-Native Financial Analyst | PropTech Innovation Leader'
+    revmgmt_focused: 'Revenue Management & Financial Analysis | Hospitality & Multifamily'
+  summaries:
+    asset_mgmt_focused: 'Senior Analyst with 8+ years in multifamily and hospitality asset management. Led financial reporting for ~15-property portfolios, built scalable USALI frameworks, and drove $600K+ in value recovery through investigative variance analysis. Proven track record managing offshore teams and delivering financial presentations to institutional investors.'
+    finreporting_focused: 'Financial reporting specialist with deep expertise in USALI and GAAP compliance. Accelerated monthly close by 57%, designed custom Chart of Accounts for portfolio-wide standardization, and ensured accurate financial reporting for institutional investors across 15+ properties. Expert in variance analysis and audit support.'
+    proptech_focused: 'AI-native systems architect combining 8+ years institutional asset management with cutting-edge technology adoption. Leveraged Gemini 2.5 Pro for 1-day invoice analysis (saving $75K annually), built PowerBI integration infrastructure, and created portfolio-wide dashboards serving 200+ employees. Self-taught technologist who scales financial operations through automation.'
+    revmgmt_focused: 'Revenue management analyst with expertise in hospitality pricing strategy and occupancy optimization. Developed HPOR productivity tracker achieving 23% YoY improvement, performed weekly STR competitive benchmarking, and exceeded NOI projections by 34% through strategic pricing and demand optimization at boutique multifamily properties.'
+
+contact:
+  phone: '+1 (203) 592-8457'
+  email: 'ezdanowski@gmail.com'
+  address: 'Washington, DC Metro Area'
+  linkedin: 'https://www.linkedin.com/in/ezdanowski'
+  github: ''
+
+technical_expertise:
+  financial_systems:
+    - 'Yardi'
+    - 'Apaleo PMS'
+    - 'USALI Framework'
+    - 'GAAP Compliance'
+    - 'Partnership Accounting'
+    - 'Revenue Recognition'
+    - 'Chart of Accounts Design'
+  data_analytics:
+    - 'PowerBI'
+    - 'Excel Financial Modeling'
+    - 'Data Visualization'
+    - 'ETL Processes'
+    - 'KPI Dashboard Development'
+    - 'STR Reports'
+    - 'Variance Analysis'
+  ai_proptech:
+    - 'Gemini 2.5 Pro (AI Implementation)'
+    - 'Prompt Engineering'
+    - 'Process Automation'
+    - 'AI Chatbot Integration'
+    - 'Data Extraction from Unstructured Documents'
+  revenue_management:
+    - 'RevPAR Analysis'
+    - 'ADR Optimization'
+    - 'Competitive Benchmarking'
+    - 'Pricing Strategy'
+    - 'Occupancy Forecasting'
+    - 'Budget & Forecasting Models'
+  leadership_operations:
+    - 'Offshore Team Management'
+    - 'SOP Documentation'
+    - 'Stakeholder Communication'
+    - 'Cross-functional Collaboration'
+    - 'Process Standardization'
+    - 'Monday.com Project Management'
+
+soft_skills:
+  problem_solving:
+    - 'Investigative Analysis'
+    - 'Root Cause Identification'
+    - 'Critical Thinking'
+    - 'Strategic Planning'
+  collaboration:
+    - 'Investor Relations'
+    - 'Executive Presentations'
+    - 'Cross-functional Teamwork'
+    - 'Partner Communication'
+  communication:
+    - 'Financial Storytelling'
+    - 'Technical Documentation'
+    - 'Mentorship & Coaching'
+
+independent_projects:
+  - name: 'Personal Real Estate Portfolio'
+    location: 'New England'
+    duration: '2017 - Present'
+    description: 'Managing 4-property rental portfolio combining institutional asset management expertise with hands-on real estate investing experience.'
+    url: ''
+    achievements:
+      - 'Apply institutional-grade underwriting and financial analysis to personal investments'
+      - 'Manage tenant relations, lease administration, and property-level P&L'
+      - 'Leverage dual perspective of institutional asset management and owner-operator experience'
+    impact: 'Demonstrates commitment to real estate industry and practical application of analytical skills to personal wealth building.'
+
+languages:
+  - language: 'English'
+    proficiency: 'Native'
+
+education:
+  - institution: 'University of Connecticut'
+    program: 'Bachelor of Science in Entrepreneurship'
+    location: 'Storrs, CT'
+    duration: '2011 - 2015'

@@ -1,0 +1,179 @@
+version: '2.0.0'
+analysis_date: '2026-01-24'
+source: 'Kasa Job Posting - Property Portfolio Finance Manager'
+
+job_analysis:
+  # Core job information
+  company: 'Kasa'
+  position: 'Property Portfolio Finance Manager'
+  job_focus:
+    - primary_area: 'senior_analyst'
+      specialties: ['asset_management', 'financial_reporting', 'usali']
+      weight: 0.5
+    - primary_area: 'senior_analyst'
+      specialties: ['proptech', 'automation', 'process_improvement']
+      weight: 0.3
+    - primary_area: 'finance_manager'
+      specialties: ['team_leadership', 'mentorship']
+      weight: 0.2
+  location: 'Remote (Eastern US or Central US Time Zone preferred)'
+  employment_type: 'Full-time'
+  experience_level: 'Senior (5+ years property-level accounting)'
+
+  # Prioritized requirements with weights (1-10 scale)
+  requirements:
+    must_have_skills:
+      - skill: 'USALI reporting standards'
+        priority: 10
+      - skill: 'Portfolio financial reporting (multi-property experience)'
+        priority: 10
+      - skill: 'GAAP compliance and financial controls'
+        priority: 10
+      - skill: 'Variance and trend analysis'
+        priority: 9
+      - skill: '5+ years property-level accounting experience'
+        priority: 9
+      - skill: 'NetSuite or similar ERP systems'
+        priority: 9
+      - skill: 'Advanced Excel/Google Sheets (pivot tables, XLOOKUP)'
+        priority: 8
+      - skill: 'Cash flow forecasting and treasury functions'
+        priority: 8
+      - skill: 'General ledger ownership'
+        priority: 8
+      - skill: '1+ year managing or mentoring team members'
+        priority: 7
+      - skill: 'Reconciliation oversight (intercompany transactions)'
+        priority: 7
+    nice_to_have_skills:
+      - skill: 'Process improvement and automation initiatives'
+        priority: 8
+      - skill: 'Hospitality industry background'
+        priority: 7
+      - skill: 'Remote work experience'
+        priority: 6
+      - skill: 'Google Workspace proficiency'
+        priority: 5
+      - skill: 'Slack proficiency'
+        priority: 4
+    soft_skills:
+      - 'Strategic thinking'
+      - 'Cross-functional collaboration'
+      - 'Independent problem-solving'
+      - 'Mentorship and coaching'
+      - 'Customer service orientation'
+      - 'Excellent written and verbal communication'
+    experience_years: 5
+    education: "Bachelor's degree in Finance, Accounting, Business, or related field"
+
+  responsibilities:
+    primary:
+      - 'Manage financial reporting for approximately 30 properties'
+      - 'Own general ledger for assigned regional portfolio'
+      - 'Prepare monthly, annual, and ad hoc financial statements'
+      - 'Conduct variance, trend, and scenario analysis to support business decisions'
+      - 'Review financial statements before external distribution'
+      - 'Oversee reconciliations including intercompany transactions'
+      - 'Manage cash flow and treasury functions'
+    secondary:
+      - 'Lead process improvement and automation initiatives'
+      - 'Mentor junior accountants in US and Mexico locations'
+      - 'Collaborate cross-functionally with operations and revenue teams'
+      - 'Support data-driven decision-making with financial insights'
+
+  # Merged context section
+  role_context:
+    department: 'Finance - Property Portfolio Management'
+    team_size: 'Mentoring junior accountants across US and Mexico'
+    key_points:
+      - 'Tech-enabled hotel and apartment hotel brand'
+      - 'Automation and AI-driven pricing focus'
+      - 'Data-driven decision-making culture'
+      - 'Managing ~30 property portfolio'
+      - 'Remote-first work environment'
+      - 'Process improvement and automation initiatives encouraged'
+
+  # Candidate alignment analysis
+  candidate_alignment:
+    strong_matches:
+      - 'USALI expertise: Designed custom USALI conversion framework for 15+ properties (100% match)'
+      - 'Portfolio financial reporting: Owned ~15-property portfolio at Placemakr (direct experience)'
+      - 'Variance analysis: Uncovered $600K delinquency, 23% housekeeping productivity improvement'
+      - 'GAAP compliance: Ensured compliance across portfolio, supported internal audits'
+      - 'Team mentorship: Managed and trained 2 offshore analysts (India/Colombia)'
+      - 'Cash flow forecasting: Led annual budget process and EBITDA projections'
+      - 'ERP experience: Advanced Yardi proficiency (similar to NetSuite)'
+      - 'Process automation: Built PowerBI dashboards, 80% time savings on partner decks'
+      - 'Hospitality background: 3+ years flexible-living/hospitality at Placemakr'
+      - 'Advanced Excel: Built proprietary budget models, USALI frameworks, waterfall models'
+    gaps_to_address:
+      - 'NetSuite specific experience (have Yardi, transferable ERP skills)'
+      - 'Managing 30 properties (have 15, demonstrate scalability of frameworks built)'
+    transferable_skills:
+      - 'AI/PropTech adoption: Gemini 2.5 Pro invoice analysis, AI chatbot pilot (2021)'
+      - 'Remote team management: Led offshore analysts, virtual collaboration expertise'
+      - 'Self-taught technology: USALI framework, PowerBI integration, prompt engineering'
+      - 'Accelerated processes: 57% faster monthly close through standardization'
+    emphasis_strategy: 'Lead with USALI framework achievement and portfolio reporting experience. Emphasize process automation and PropTech adoption to align with Kasa tech-enabled culture. Highlight offshore team mentorship to demonstrate remote management capability.'
+
+  # Resume section priorities
+  section_priorities:
+    technical_expertise:
+      - 'USALI Framework and GAAP Compliance (most critical)'
+      - 'Yardi ERP and PowerBI (demonstrate ERP proficiency)'
+      - 'Excel Financial Modeling and Data Visualization'
+      - 'Cash flow forecasting and variance analysis'
+      - 'AI/PropTech automation tools'
+    experience_focus: 'Prioritize Placemakr achievements showing portfolio management, USALI expertise, process improvement, and team leadership. Include Bozzuto for property-level operations context.'
+    project_relevance: 'Highlight personal real estate portfolio to show hands-on investor perspective alongside institutional experience.'
+
+  # Optimization actions for resume tailoring
+  optimization_actions:
+    LEAD_WITH:
+      - 'USALI conversion framework (15+ properties, 100% portfolio coverage)'
+      - 'Portfolio financial reporting ownership (~15 properties, multiple markets)'
+      - 'Process automation achievements (PowerBI, 80% time savings, AI adoption)'
+    EMPHASIZE:
+      - 'Variance analysis expertise ($600K delinquency recovery, HPOR tracker)'
+      - 'Team mentorship (2 offshore analysts, SOP documentation)'
+      - 'GAAP compliance and financial controls'
+      - 'Cash flow forecasting and annual budget process'
+      - 'Tech-enabled mindset (AI, automation, PropTech)'
+    QUANTIFY:
+      - 'Portfolio size (15 properties → demonstrate scalability to 30)'
+      - 'Time savings from automation (57% faster close, 80% deck creation)'
+      - 'Financial impact ($600K recovery, $75K annual savings, 34% NOI beat)'
+      - 'Team size managed (2 offshore analysts, 15+ partner relationships)'
+    DOWNPLAY:
+      - 'Property-level operational details (focus on portfolio/finance)'
+      - 'Non-finance achievements from Bozzuto property management'
+
+  # Application information
+  application_info:
+    posting_url: 'https://job-boards.greenhouse.io/kasaliving/jobs/6672812003'
+    posting_date: '2026-01-24'
+    deadline: 'Not specified'
+
+  # ATS optimization
+  ats_analysis:
+    title_variations:
+      - 'Property Portfolio Finance Manager'
+      - 'Portfolio Finance Manager'
+      - 'Senior Financial Analyst - Asset Management'
+      - 'Finance Manager - Hospitality'
+      - 'Regional Finance Manager'
+    critical_phrases:
+      - 'USALI reporting standards'
+      - 'portfolio financial reporting'
+      - 'GAAP compliance'
+      - 'variance analysis'
+      - 'cash flow forecasting'
+      - 'NetSuite'
+      - 'ERP systems'
+      - 'process improvement'
+      - 'automation'
+      - 'hospitality accounting'
+      - 'multi-property'
+      - 'team mentorship'
+      - 'general ledger'
+      - 'intercompany reconciliation'

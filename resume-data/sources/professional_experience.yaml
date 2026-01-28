@@ -1,0 +1,80 @@
+version: '2.0.0'
+metadata:
+  last_updated: 'January 24, 2026'
+
+professional_experience:
+  - company: 'Placemakr'
+    position: 'Senior Analyst, Asset Management'
+    location: 'Remote'
+    duration: 'May 2022 - April 2025'
+    company_description: 'Flexible-living hospitality operator managing 30+ properties across the United States, combining short-term rental and multifamily business models with tech-enabled operations.'
+    linkedin: 'https://www.linkedin.com/company/placemakr'
+    achievements:
+      asset_mgmt_focused:
+        - 'Owned property-level financial reporting for ~15-property portfolio across multiple markets ensuring GAAP compliance; prepared and audited monthly executive summaries, P&L statements, and variance reports for ownership and external partners'
+        - 'Uncovered $600K commercial tenant delinquency spanning multiple years through P&L reconciliation; led resolution including contract negotiations, eviction execution, and broker engagement to secure replacement tenant at 15% higher rent PSF'
+        - 'Engineered proprietary zero-based budgeting model, standardizing methodology across entire portfolio (replacing ad hoc formats) and improving forecast accuracy and defensibility when presenting to internal stakeholders and external partners; led annual budget process and coached General Managers on best practices'
+        - 'Delivered bi-weekly to monthly financial presentations to ~15 property partners, translating complex financial data into actionable insights for diverse stakeholder audiences (multifamily developers, hotel operators, institutional investors)'
+        - 'Performed weekly competitive benchmarking using STR reports to evaluate portfolio performance against market comparables, informing pricing strategy and revenue management decisions'
+        - 'Modeled financial scenario for permanent flex-use conversion at Columbia property, demonstrating accretive value of maintaining 30+ units on-site beyond lease-up period; analysis led leadership to draft new long-term management contract with developer'
+      finreporting_focused:
+        - 'Designed custom USALI conversion framework that automated industry-standard reporting across 100% of portfolio; self-taught USALI 11th edition and created comprehensive Yardi-to-USALI general ledger mappings, enabling hotel-focused partners to benchmark performance against broader portfolios'
+        - 'Accelerated monthly close by 57% (12 days to 5 days) by authoring variance analysis SOP and implementing Monday.com project board to streamline cross-functional coordination across property teams'
+        - 'Ensured GAAP compliance and maintained financial controls across portfolio by supporting internal audit functions, implementing standardized accounting policies, and ensuring adherence to reporting standards'
+        - 'Managed $1.2M in partner cash disbursements, performing monthly reconciliations of intercompany accounts and ensuring timely distributions'
+        - 'Owned general ledger integrity and served as primary financial contact for ~15 properties across geographically diverse markets'
+        - 'Developed SOP documentation for budgeting and variance analysis best practices, leveraging prior General Manager experience to bridge finance and operations perspectives'
+      proptech_focused:
+        - 'Leveraged newly-released AI models to extract insights from 100+ unstructured invoices in one day; uncovered 76% cost increase through trend analysis, identified root cause, and enabled $75K in annual vendor savings'
+        - 'Built portfolio-wide KPI dashboard tracking occupancy, ADR, RevPAR, gross revenues, expenses, and NOI by property; established single source of truth for 200+ employees, replacing fragmented reporting and enabling data-driven decisions'
+        - 'Reduced partner deck creation time by 80% (4 hours to 45 min) by embedding live PowerBI visuals into templates, eliminating manual copy-paste inefficiencies and freeing offshore team capacity for higher-value analysis'
+        - 'Created proprietary budget and forecasting model tailored to flexible-use hospitality business model, standardizing annual property-level EBITDA projections used by FP&A for company-wide financial planning'
+        - 'Integrated ERP and property management systems (Yardi, Apaleo) with PowerBI to enable automated, scalable reporting infrastructure supporting portfolio growth (property count doubled during tenure)'
+        - 'Developed HPOR (Hours Per Occupied Room) productivity tracker to address runaway housekeeping labor costs; provided GMs with operational benchmark achieving 23% YoY productivity improvement'
+      revmgmt_focused:
+        - 'Performed weekly competitive benchmarking using STR reports to evaluate portfolio performance against market comparables, informing pricing strategy and revenue management decisions'
+        - 'Developed HPOR (Hours Per Occupied Room) productivity tracker to address runaway housekeeping labor costs; provided GMs with operational benchmark to improve scheduling efficiency, achieving 23% YoY productivity improvement'
+        - 'Modeled financial scenario for permanent flex-use conversion at Columbia property, demonstrating accretive value of maintaining 30+ hospitality units; analysis led leadership to negotiate new long-term management contract'
+        - 'Built portfolio-wide KPI dashboard tracking occupancy, ADR, RevPAR, gross revenues, expenses, and NOI by property; established single source of truth for 200+ employees, replacing fragmented reporting and enabling data-driven decisions'
+        - 'Created proprietary budget and forecasting model tailored to flexible-use hospitality business model, incorporating dual revenue streams, variable cost structures, and seasonality patterns unique to flex-living'
+        - 'Leveraged newly-released AI models to analyze 100+ unstructured invoices in one day; identified 76% cost increase through trend analysis, identified root cause, and negotiated $75K in annual vendor savings'
+
+  - company: 'Bozzuto'
+    position: 'Property Manager'
+    location: 'Fairfield, CT'
+    duration: 'February 2021 - March 2022'
+    company_description: 'Leading real estate management company specializing in multifamily residential properties across the Mid-Atlantic and Northeast regions.'
+    linkedin: 'https://www.linkedin.com/company/bozzuto'
+    achievements:
+      asset_mgmt_focused:
+        - 'Exceeded financial projections by 34% NOI and grew Gross Potential Rent by 41% over pro forma through strategic pricing adjustments and demand optimization for 90-unit boutique multifamily asset'
+        - 'Hired, coached, and led cross-functional team of leasing and maintenance staff to deliver on operational excellence; modernized internal collaboration by implementing MS Teams channel structure'
+        - 'Conducted on-site property visits during new asset onboarding to gain operational context and build relationships with on-the-ground teams'
+      finreporting_focused:
+        - 'Exceeded financial projections by 34% NOI and grew Gross Potential Rent by 41% over pro forma through strategic pricing adjustments and demand optimization, delivering FY2021 results significantly ahead of underwriting expectations'
+      proptech_focused:
+        - 'Piloted AI-assistant technology enabling 24/7 automated lead nurturing, increasing guest card-to-tour conversion rate by 10% over industry benchmark while saving 14 hours of staff time per week—early AI adoption in 2021, well before mainstream ChatGPT'
+        - 'Leveraged live-video touring technology to pre-lease 42% of portfolio (38 units) sight-unseen, capitalizing on pandemic-era virtual sales tools to accelerate lease-up velocity'
+        - 'Designed virtual launch event generating company-wide record of 20 lease executions in under one hour, creating urgency through scarcity-based marketing and virtual-first sales model'
+        - 'Modernized internal collaboration by implementing MS Teams channel structure for departmental communication and file sharing, replacing inefficient email-based workflows'
+      revmgmt_focused:
+        - 'Exceeded financial projections by 34% NOI and grew Gross Potential Rent by 41% over pro forma through strategic pricing adjustments and demand optimization for 90-unit boutique multifamily asset'
+        - 'Leveraged live-video touring technology to pre-lease 42% of portfolio (38 units) sight-unseen, capitalizing on pandemic-era virtual sales tools to accelerate lease-up velocity and reduce time-to-stabilization'
+        - 'Designed virtual launch event generating company-wide record of 20 lease executions in under one hour, creating urgency through scarcity-based marketing and virtual-first sales model'
+
+  - company: 'Bozzuto'
+    position: 'Assistant General Manager'
+    location: 'Bloomfield, CT'
+    duration: 'February 2019 - January 2021'
+    company_description: 'Leading real estate management company specializing in multifamily residential properties across the Mid-Atlantic and Northeast regions.'
+    linkedin: 'https://www.linkedin.com/company/bozzuto'
+    achievements:
+      asset_mgmt_focused:
+        - 'Supported property operations, lease-up initiatives, resident relations, and financial reporting at property level for communities totaling 550+ units'
+        - 'Gained foundational experience in multifamily operations, budgeting, financial reporting, team management, and business plan execution'
+      finreporting_focused:
+        - 'Supported financial reporting at property level for communities totaling 550+ units, developing expertise in P&L analysis, variance reporting, and budget management'
+      proptech_focused:
+        - 'Supported property operations and technology adoption initiatives across 550+ unit portfolio during progression from Leasing Consultant to Assistant General Manager'
+      revmgmt_focused:
+        - 'Supported lease-up initiatives, pricing strategy, and occupancy optimization for communities totaling 550+ units during progression through Bozzuto organization'

@@ -36,7 +36,7 @@ const CoreCompetencies = ({ resume }: { resume: ResumeSchema }) => {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.sectionTitle}>CORE COMPETENCIES</Text>
+      <Text style={styles.sectionTitle}>SKILLS</Text>
       <View style={styles.separator} />
       <Text style={styles.skillsText}>{resume.skills.join(' • ')}</Text>
     </View>

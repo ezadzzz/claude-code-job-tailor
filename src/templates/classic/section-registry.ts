@@ -74,16 +74,6 @@ export const RESUME_SECTIONS: ResumeSectionConfig[] = [
     description: 'Professional summary - Profile',
   },
 
-  // ========== EDUCATION SECTION ==========
-  {
-    documentType: 'resume',
-    id: 'education',
-    component: Education,
-    isVisible: (data) => (data.education?.length ?? 0) > 0,
-    order: 2,
-    description: 'Educational background',
-  },
-
   // ========== EXPERIENCE SECTION ==========
   {
     documentType: 'resume',
@@ -94,8 +84,18 @@ export const RESUME_SECTIONS: ResumeSectionConfig[] = [
       const hasProfessionalExperience = (data.professional_experience?.length ?? 0) > 0;
       return hasIndependentProjects || hasProfessionalExperience;
     },
-    order: 3,
+    order: 2,
     description: 'Professional experience and independent projects',
+  },
+
+  // ========== EDUCATION SECTION ==========
+  {
+    documentType: 'resume',
+    id: 'education',
+    component: Education,
+    isVisible: (data) => (data.education?.length ?? 0) > 0,
+    order: 3,
+    description: 'Educational background',
   },
 
   // ========== TECHNICAL SKILLS SECTION ==========

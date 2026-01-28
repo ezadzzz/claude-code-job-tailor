@@ -11,7 +11,7 @@ const styles = StyleSheet.create({
   outerContainer: {
     width: '100%',
     position: 'relative',
-    marginBottom: spacing.pagePadding,
+    marginBottom: spacing.pagePadding + 8,
   },
 
   // Profile picture - absolute positioned top-right

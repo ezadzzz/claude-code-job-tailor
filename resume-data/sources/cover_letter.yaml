@@ -1,0 +1,62 @@
+version: '2.0.0'
+metadata:
+  last_updated: 'January 24, 2026'
+
+cover_letter:
+  templates:
+    asset_mgmt_focused:
+      letter_title: 'Cover Letter - Senior Analyst, Asset Management'
+      opening_line: 'Dear [COMPANY] Hiring Team,'
+      body:
+        - "I am writing to express my strong interest in the [POSITION] role at [COMPANY]. With 8+ years of experience in multifamily and hospitality asset management, I have developed expertise in financial reporting, portfolio oversight, and stakeholder relations that aligns perfectly with your requirements."
+        - "At Placemakr, I owned financial reporting for a ~15-property portfolio spanning multiple markets, delivering monthly executive summaries and variance reports to institutional investors and hotel operator partners. I uncovered a $600K commercial tenant delinquency that had gone unnoticed for years, led the resolution process including eviction and broker engagement, and secured a replacement tenant at higher rent—demonstrating the investigative problem-solving capability that drives real value recovery."
+        - "I am particularly drawn to [COMPANY]'s commitment to [mention specific company value or portfolio focus]. My track record of building scalable financial infrastructure, delivering actionable insights to diverse stakeholder audiences, and identifying opportunities for value creation would enable me to contribute meaningfully to your asset management team from day one."
+      signature: |
+        Sincerely,
+        Eric X. Zdanowski
+
+    finreporting_focused:
+      letter_title: 'Cover Letter - Financial Reporting Specialist'
+      opening_line: 'Dear [COMPANY] Hiring Team,'
+      body:
+        - "I am writing to apply for the [POSITION] position at [COMPANY]. As a financial reporting specialist with deep expertise in USALI and GAAP compliance, I have spent the past 8 years ensuring accurate, timely, and auditable financial reporting for real estate portfolios spanning multifamily and hospitality assets."
+        - "My most impactful contribution at Placemakr was designing and implementing a custom USALI conversion framework that enabled 100% of the portfolio (~70% requiring USALI format, 15+ properties) to report in industry-standard format automatically. I self-taught the entire USALI 11th edition framework, built a complete GL-to-USALI mapping for thousands of accounts, and created automated financial statements that became permanent infrastructure for the entire portfolio. Additionally, I accelerated the monthly close timeline by 57% (from 12 days to 5 days) by standardizing workflows and implementing variance analysis processes that reduced back-and-forth with property teams."
+        - "I am confident that my ability to teach myself complex accounting frameworks, build scalable reporting solutions, and ensure GAAP/USALI compliance would bring immediate value to [COMPANY]'s financial reporting function. I am eager to contribute to your team and support your commitment to [mention specific company focus]."
+      signature: |
+        Sincerely,
+        Eric X. Zdanowski
+
+    proptech_focused:
+      letter_title: 'Cover Letter - PropTech & AI Innovation'
+      opening_line: 'Dear [COMPANY] Hiring Team,'
+      body:
+        - "I am writing to express my enthusiasm for the [POSITION] role at [COMPANY]. I am an AI-native systems architect who combines 8+ years of institutional asset management expertise with cutting-edge technology adoption—teaching myself new tools and building scalable solutions that others rely on."
+        - "In December 2024, I completed a laundry cost analysis in ONE DAY using Gemini 2.5 Pro (released just days earlier), extracting insights from 100+ unstructured PDF invoices covering 27 months. I taught myself prompt engineering on the fly to identify a 76% cost increase and negotiate $75K in annual savings—work that would have taken weeks manually, which is why it was never done before. This is part of a broader pattern: I built portfolio-wide PowerBI dashboards serving 200+ employees, integrated Yardi and Apaleo data systems to enable automated reporting at scale, and reduced partner deck creation time by 80% through PowerBI embedding. In 2021, I piloted AI chatbot technology for lead nurturing—well before mainstream ChatGPT adoption—achieving 10% higher conversion rates while saving 14 hours of staff time per week."
+        - "I am drawn to [COMPANY]'s innovative approach to [mention specific PropTech initiative or company focus]. My ability to identify operational pain points, teach myself emerging technologies, and build production-ready solutions that scale would enable me to drive meaningful innovation on your team."
+      signature: |
+        Sincerely,
+        Eric X. Zdanowski
+
+    revmgmt_focused:
+      letter_title: 'Cover Letter - Revenue Management & Financial Analysis'
+      opening_line: 'Dear [COMPANY] Hiring Team,'
+      body:
+        - "I am writing to apply for the [POSITION] position at [COMPANY]. With expertise in hospitality revenue management and financial analysis spanning multifamily and flexible-living assets, I have a proven track record of optimizing pricing strategy, improving operational efficiency, and exceeding financial projections."
+        - "At Bozzuto, I exceeded NOI projections by 34% and grew Gross Potential Rent by 41% over pro forma through strategic pricing adjustments and demand optimization for a 90-unit boutique property. At Placemakr, I performed weekly competitive benchmarking using STR reports to inform pricing decisions, developed an HPOR productivity tracker that achieved 23% YoY housekeeping efficiency improvement, and built proprietary budget models tailored to the unique dual-revenue-stream nature of flexible-living hospitality. These tools became company-wide standards used across the entire portfolio."
+        - "I am particularly impressed by [COMPANY]'s focus on [mention specific RevMgmt approach or portfolio strategy]. My analytical rigor, operational awareness, and ability to translate data into actionable revenue strategies would enable me to contribute immediately to your revenue management objectives."
+      signature: |
+        Sincerely,
+        Eric X. Zdanowski
+
+  common_elements:
+    personal_info:
+      name: 'Eric X. Zdanowski'
+      address: 'Washington, DC Metro Area'
+      email: 'ezdanowski@gmail.com'
+      phone: '+1 (203) 592-8457'
+      linkedin: 'https://www.linkedin.com/in/ezdanowski'
+      github: ''
+
+  personalization_variables:
+    - '[COMPANY]'
+    - '[POSITION]'

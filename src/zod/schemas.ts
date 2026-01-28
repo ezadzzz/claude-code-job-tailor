@@ -48,7 +48,8 @@ export const IndependentProjectSchema = z.object({
 
 export const ResumeSchema = z.object({
   name: z.string().min(1),
-  title: z.string().min(1),
+  title: z.string().min(1).optional(),
+  position: z.string().min(1).optional(),
   contact: ContactDetailsSchema,
   professional_experience: z.array(ProfessionalExperienceSchema).min(1),
   education: z.array(EducationSchema).min(1),

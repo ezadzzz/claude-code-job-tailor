@@ -52,7 +52,7 @@ const styles = StyleSheet.create({
   },
   achievementText: {
     flex: 1,
-    fontSize: 9,
+    fontSize: 10,
     color: colors.darkGray,
     lineHeight: 1.4,
   },

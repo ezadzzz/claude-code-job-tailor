@@ -1,0 +1,44 @@
+version: '2.0.0'
+analysis_date: '2026-01-24'
+
+job_focus:
+  - primary_area: 'senior_analyst'
+    specialties: ['asset_management', 'financial_reporting', 'usali']
+    weight: 0.5
+  - primary_area: 'senior_analyst'
+    specialties: ['proptech', 'automation', 'process_improvement']
+    weight: 0.3
+  - primary_area: 'finance_manager'
+    specialties: ['team_leadership', 'mentorship']
+    weight: 0.2
+
+cover_letter:
+  name: 'Eric X. Zdanowski'
+  company: 'Kasa'
+  position: 'Property Portfolio Finance Manager'
+  primary_focus: 'senior_analyst'
+  date: '2026-01-24'
+
+  personal_info:
+    address: 'Washington, DC Metro Area'
+    email: 'ezdanowski@gmail.com'
+    phone: '+1 (203) 592-8457'
+    linkedin: 'https://www.linkedin.com/in/ezdanowski'
+
+  content:
+    letter_title: 'Application for Property Portfolio Finance Manager'
+    opening_line: 'Dear Kasa Hiring Team,'
+    body:
+      - "I am writing to express my strong interest in the Property Portfolio Finance Manager role at Kasa. With 8+ years of experience managing financial reporting for multi-property hospitality and multifamily portfolios, deep expertise in USALI and GAAP compliance, and a proven track record of leveraging technology to automate and scale financial operations, I am excited about the opportunity to contribute to Kasa's tech-enabled growth."
+
+      - "At Placemakr, I owned financial reporting for a portfolio of ~15 properties across multiple markets—directly comparable to the ~30-property portfolio this role manages. My most impactful contribution was designing and implementing a custom USALI conversion framework that enabled 100% of the portfolio to report in industry-standard format automatically. I self-taught the entire USALI 11th edition framework, built a complete GL-to-USALI mapping for thousands of general ledger accounts, and created automated financial statements that became permanent infrastructure for the entire organization. This experience makes me uniquely qualified to hit the ground running with Kasa's USALI reporting requirements."
+
+      - "Beyond core financial reporting, I share Kasa's commitment to automation and data-driven decision-making. I accelerated monthly close by 57% (from 12 days to 5 days) through process standardization, created a proprietary zero-based budgeting model that standardized forecasting methodology across all General Managers (replacing ad hoc formats with defensible, accurate projections), built portfolio-wide PowerBI dashboards serving 200+ employees, and reduced partner deck creation time by 80% through automation. Most notably, in December 2024, I leveraged Gemini 2.5 Pro—released just days earlier—to complete a laundry cost analysis in ONE DAY that would have taken weeks manually, identifying a 76% cost increase and negotiating $75K in annual savings. This demonstrates the kind of innovative, tech-forward thinking that aligns perfectly with Kasa's AI-driven pricing and automation culture."
+
+      - "I also bring the team leadership experience this role requires. I managed and mentored two offshore analysts in India and Colombia, providing training on USALI frameworks, variance analysis methodology, and financial reporting standards—experience that translates directly to mentoring junior accountants across US and Mexico locations. Additionally, I uncovered a $600K commercial tenant delinquency spanning multiple years and led the complex resolution process, demonstrating the investigative variance analysis and problem-solving capability essential for managing a growing portfolio."
+
+      - "I am particularly drawn to Kasa's mission of combining automation, AI-driven pricing, and data-driven decision-making to optimize hospitality asset profitability. My dual expertise in rigorous USALI/GAAP financial reporting and cutting-edge PropTech adoption would enable me to contribute immediately to your finance team while driving the process improvement initiatives that support Kasa's continued growth. I am eager to bring my portfolio management experience, technical proficiency, and passion for financial automation to this role."
+
+    signature: |
+      Sincerely,
+      Eric X. Zdanowski

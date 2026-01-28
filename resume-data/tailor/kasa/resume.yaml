@@ -1,0 +1,57 @@
+resume:
+  name: 'Eric X. Zdanowski'
+  position: 'Property Portfolio Finance Manager'
+  summary: 'Hospitality finance professional with 8+ years managing property-level accounting, portfolio roll-up reporting, and cash flow forecasting for tech-enabled operators. AI-native systems builder and automation champion: built a custom USALI general ledger conversion framework, launched a KPI dashboard used by 200+ employees, and drove $75K in annual savings through AI invoice analysis. Combines technical rigor with an operations lens—automating manual processes, leading offshore teams, and translating
+  complex financials into clear, actionable insights for non-finance stakeholders.'
+
+  contact:
+    phone: '+1 (203) 592-8457'
+    email: 'ezdanowski@gmail.com'
+    address: 'Washington, DC Metro Area'
+    linkedin: 'https://www.linkedin.com/in/ezdanowski'
+
+  skills:
+    - 'GAAP & USALI Reporting'
+    - 'Financial Reporting & Analysis'
+    - 'Budgeting & Forecasting'
+    - 'General Ledger Management'
+    - 'Cash Flow Management'
+    - 'Variance & Trend Analysis'
+    - 'ERP Systems (Yardi)'
+    - 'Advanced Excel & Google Sheets'
+    - 'PowerBI & Data Visualization'
+    - 'Process Automation & AI Tools'
+
+  professional_experience:
+    - company: 'Placemakr'
+      position: 'Senior Analyst, Asset Management'
+      location: 'Remote'
+      duration: 'May 2022 - April 2025'
+      company_description: 'Flexible-living hospitality operator managing 30+ properties across the United States, combining short-term rental and multifamily business models with tech-enabled operations.'
+      linkedin: 'https://www.linkedin.com/company/placemakr'
+      achievements:
+        - 'Owned property-level financial reporting for ~15-property portfolio across multiple markets ensuring GAAP compliance; prepared and audited monthly executive summaries, P&L statements, and variance reports for ownership and external partners'
+        - 'Designed custom USALI conversion framework that automated industry-standard reporting across 100% of portfolio; self-taught USALI 11th edition and created comprehensive Yardi-to-USALI general ledger mappings, enabling hotel-focused partners to benchmark performance against broader portfolios'
+        - 'Engineered proprietary zero-based budgeting model, standardizing methodology across entire portfolio (replacing ad hoc formats) and improving forecast accuracy and defensibility when presenting to internal stakeholders and external partners; led annual budget process and coached General Managers on best practices'
+        - 'Accelerated monthly close by 57% (12 days to 5 days) by authoring variance analysis SOP and implementing Monday.com project board to streamline cross-functional coordination across property teams'
+        - 'Uncovered $600K commercial tenant delinquency spanning multiple years through P&L reconciliation; led resolution including contract negotiations, eviction execution, and broker engagement to secure replacement tenant at 15% higher rent PSF'
+        - 'Built portfolio-wide KPI dashboard tracking key metrics by property; established single source of truth for 200+ employees, replacing fragmented reporting and enabling data-driven decisions'
+        - 'Leveraged newly-released AI models to extract insights from 100+ unstructured invoices in one day; uncovered 76% cost increase through trend analysis, identified root cause, and enabled $75K in annual vendor savings'
+        - 'Reduced partner deck creation time by 80% (4 hours to 45 min) by embedding live PowerBI visuals into templates, eliminating manual copy-paste inefficiencies and freeing offshore team capacity for higher-value analysis'
+
+    - company: 'Bozzuto'
+      position: 'Property Manager'
+      location: 'Fairfield, CT'
+      duration: 'February 2021 - March 2022'
+      company_description: 'Leading real estate management company specializing in multifamily residential properties across the Mid-Atlantic and Northeast regions.'
+      linkedin: 'https://www.linkedin.com/company/bozzuto'
+      achievements:
+        - 'Exceeded NOI projections by 34% and grew Gross Potential Rent by 41% over pro forma through strategic pricing and demand optimization for 90-unit boutique multifamily property'
+        - 'Piloted AI-assistant technology that automated 24/7 lead nurturing (pre-mainstream ChatGPT adoption); increased guest card-to-tour conversion rate by 10% over industry benchmark while saving 14 hours of staff time per week'
+        - 'Hired, coached, and led cross-functional team of leasing and maintenance staff'
+
+  education:
+    - institution: 'University of Connecticut'
+      program: 'Bachelor of Science in Entrepreneurship'
+      location: 'Storrs, CT'
+      duration: '2011 - 2015'

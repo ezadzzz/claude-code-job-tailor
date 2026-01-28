@@ -1,0 +1,54 @@
+# Company Context File
+# This file contains all the context information for Kasa
+# Used by the /tailor command to set active company context
+
+# Active company name (matches folder name in resume-data/tailor/)
+company: 'Kasa'
+
+# Full path to company's tailor folder
+folder_path: 'resume-data/tailor/kasa'
+
+# List of files that exist in the company folder
+available_files:
+  - 'metadata.yaml'
+  - 'job_analysis.yaml'
+  - 'resume.yaml'
+  - 'cover_letter.yaml'
+
+# Template/theme to use for PDF generation (defaults to 'modern')
+active_template: 'classic'
+
+# Job details extracted from job_analysis.yaml
+position: 'Property Portfolio Finance Manager'
+
+# Primary job focus area - mix of asset management, financial reporting, and proptech
+primary_focus: 'asset_mgmt_focused + finreporting_focused + proptech_focused'
+
+# Brief summary of job requirements (max 100 chars)
+job_summary: 'Tech-enabled hospitality, ~30 property portfolio, USALI/GAAP, automation focus'
+
+# Extended job details for context
+job_details:
+  company: 'Kasa'
+  location: 'Remote (Eastern/Central US Time Zone)'
+  experience_level: 'Senior (5+ years)'
+  employment_type: 'Full-time'
+  must_have_skills:
+    - 'USALI reporting standards'
+    - 'GAAP compliance'
+    - 'Portfolio financial reporting (multi-property)'
+    - 'Variance and trend analysis'
+    - 'NetSuite or similar ERP'
+    - 'Advanced Excel/Google Sheets'
+    - 'Team mentorship (1+ year)'
+    - 'Cash flow forecasting'
+  nice_to_have_skills:
+    - 'Process improvement and automation'
+    - 'Hospitality industry experience'
+    - 'Remote work experience'
+    - 'Google Workspace and Slack'
+  team_context: 'Mentoring junior accountants in US and Mexico locations'
+  user_scale: 'Tech-enabled hotel brand managing ~30 properties with AI-driven pricing and automation'
+
+# Timestamp when metadata was last generated (ISO format)
+last_updated: '2026-01-24T01:30:00Z'

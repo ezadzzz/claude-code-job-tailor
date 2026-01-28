@@ -37,9 +37,14 @@ const Summary = ({ resume }: { resume: ResumeSchema }) => {
     return null;
   }
 
+  // Generate dynamic header: "[Position] Summary" or fallback to "Profile"
+  const sectionTitle = resume.position
+    ? `${resume.position.toUpperCase()} SUMMARY`
+    : 'PROFILE';
+
   return (
     <View style={styles.container}>
-      <Text style={styles.sectionTitle}>PROFILE</Text>
+      <Text style={styles.sectionTitle}>{sectionTitle}</Text>
       <View style={styles.separator} />
       <Text style={styles.summaryText}>{resume.summary}</Text>
     </View>
