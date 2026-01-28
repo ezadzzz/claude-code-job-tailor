@@ -1,5 +1,5 @@
 version: '2.0.0'
-analysis_date: '2026-01-24'
+analysis_date: '2026-01-28'
 
 job_focus:
   - primary_area: 'senior_analyst'
@@ -17,7 +17,7 @@ cover_letter:
   company: 'Kasa'
   position: 'Property Portfolio Finance Manager'
   primary_focus: 'senior_analyst'
-  date: '2026-01-24'
+  date: '2026-01-28'
 
   personal_info:
     address: 'Washington, DC Metro Area'
@@ -26,18 +26,16 @@ cover_letter:
     linkedin: 'https://www.linkedin.com/in/ezdanowski'
 
   content:
-    letter_title: 'Application for Property Portfolio Finance Manager'
+    letter_title: 'Cover Letter - Property Portfolio Finance Manager'
     opening_line: 'Dear Kasa Hiring Team,'
     body:
-      - "I am writing to express my strong interest in the Property Portfolio Finance Manager role at Kasa. With 8+ years of experience managing financial reporting for multi-property hospitality and multifamily portfolios, deep expertise in USALI and GAAP compliance, and a proven track record of leveraging technology to automate and scale financial operations, I am excited about the opportunity to contribute to Kasa's tech-enabled growth."
+      - "I was staying at the Mint House in St. Petersburg when I noticed the signage had changed—'Mint House by Kasa.' That sparked a deep dive into the merger, and when I discovered this role, the alignment felt almost too perfect: a tech-forward hospitality company doubling its portfolio overnight, looking for someone to scale financial operations. As a systems thinker who spent three years building scalable finance infrastructure at Placemakr, I knew I had to reach out."
 
-      - "At Placemakr, I owned financial reporting for a portfolio of ~15 properties across multiple markets—directly comparable to the ~30-property portfolio this role manages. My most impactful contribution was designing and implementing a custom USALI conversion framework that enabled 100% of the portfolio to report in industry-standard format automatically. I self-taught the entire USALI 11th edition framework, built a complete GL-to-USALI mapping for thousands of general ledger accounts, and created automated financial statements that became permanent infrastructure for the entire organization. This experience makes me uniquely qualified to hit the ground running with Kasa's USALI reporting requirements."
+      - "At Placemakr, I owned financial reporting for ~15 properties and faced a familiar challenge—no standardized USALI reporting across the portfolio. So I taught myself the entire USALI 11th edition framework, mapped thousands of GL accounts, and built an automated conversion system that became permanent infrastructure for the organization. That self-driven approach to solving complex problems is how I operate, and it's exactly what Kasa needs as you integrate Mint House properties and scale toward 85+ units."
 
-      - "Beyond core financial reporting, I share Kasa's commitment to automation and data-driven decision-making. I accelerated monthly close by 57% (from 12 days to 5 days) through process standardization, created a proprietary zero-based budgeting model that standardized forecasting methodology across all General Managers (replacing ad hoc formats with defensible, accurate projections), built portfolio-wide PowerBI dashboards serving 200+ employees, and reduced partner deck creation time by 80% through automation. Most notably, in December 2024, I leveraged Gemini 2.5 Pro—released just days earlier—to complete a laundry cost analysis in ONE DAY that would have taken weeks manually, identifying a 76% cost increase and negotiating $75K in annual savings. This demonstrates the kind of innovative, tech-forward thinking that aligns perfectly with Kasa's AI-driven pricing and automation culture."
+      - "What excites me most about Kasa is the commitment to automation and AI-driven operations. I share that mindset. When Gemini 2.5 Pro launched in December, I used it within days to complete a laundry cost analysis that would have taken weeks manually. The result: I identified a 76% cost increase that ownership had been scrutinizing for months, and negotiated $75K in annual savings. My manager and the property GMs were thrilled—we'd finally unlocked data that drove real decisions. That's the kind of initiative I'd bring to Kasa's finance team."
 
-      - "I also bring the team leadership experience this role requires. I managed and mentored two offshore analysts in India and Colombia, providing training on USALI frameworks, variance analysis methodology, and financial reporting standards—experience that translates directly to mentoring junior accountants across US and Mexico locations. Additionally, I uncovered a $600K commercial tenant delinquency spanning multiple years and led the complex resolution process, demonstrating the investigative variance analysis and problem-solving capability essential for managing a growing portfolio."
-
-      - "I am particularly drawn to Kasa's mission of combining automation, AI-driven pricing, and data-driven decision-making to optimize hospitality asset profitability. My dual expertise in rigorous USALI/GAAP financial reporting and cutting-edge PropTech adoption would enable me to contribute immediately to your finance team while driving the process improvement initiatives that support Kasa's continued growth. I am eager to bring my portfolio management experience, technical proficiency, and passion for financial automation to this role."
+      - "I'd welcome the chance to discuss how my portfolio management experience and passion for process automation could support Kasa's growth. Stacie Powell, a former Placemakr colleague who now serves as a Portfolio GM at Kasa, encouraged me to apply. I'm available at your convenience."
 
     signature: |
       Sincerely,

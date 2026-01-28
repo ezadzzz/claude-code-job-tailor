@@ -8,13 +8,20 @@ const { colors, spacing } = tokens.classic;
 const styles = StyleSheet.create({
   bodyContainer: {
     flexDirection: 'column',
-    marginBottom: spacing.pagePadding / 2,
+    marginBottom: spacing.pagePadding,
+  },
+  openingLine: {
+    fontSize: 10,
+    fontFamily: 'Lato',
+    color: colors.primary,
+    marginBottom: 10,
+    lineHeight: 1.5,
   },
   paragraph: {
     fontSize: 10,
     fontFamily: 'Lato',
     color: colors.primary,
-    marginBottom: spacing.pagePadding / 3,
+    marginBottom: 10,
     lineHeight: 1.5,
   },
 });
@@ -22,7 +29,7 @@ const styles = StyleSheet.create({
 const Body = ({ data }: { data: CoverLetterSchema }) => {
   return (
     <View style={styles.bodyContainer}>
-      <Text style={styles.paragraph}>{data.content.opening_line}</Text>
+      <Text style={styles.openingLine}>{data.content.opening_line}</Text>
       {data.content.body.map((paragraph, index) => (
         <Text key={index} style={styles.paragraph}>
           {paragraph}

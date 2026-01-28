@@ -17,6 +17,32 @@ This command activates **tailor mode**, where you (Claude) become the user's act
 
 The technical infrastructure (server, file watching, validation) runs in the background to support this collaborative editing workflow.
 
+## Cover Letter Options
+
+For cover letters, you have two approaches:
+
+### Quick Edits (Within Tailor Mode)
+For minor refinements to an existing cover letter:
+- Adjust tone, fix typos, update metrics
+- Edit specific paragraphs or sections
+- Make targeted improvements
+
+### Full Co-Authoring (Recommended for New Letters)
+For creating or significantly rewriting a cover letter, use the dedicated skill:
+
+```
+/cover-letter company-name
+```
+
+This provides an **interactive co-authoring workflow** that:
+- Researches the company (news, culture, initiatives)
+- Interviews you about achievements, motivations, and stories
+- Creates story-driven content with quantifiable metrics
+- Follows the Cultivated Culture framework for maximum impact
+- Iterates based on your feedback
+
+**Tip:** Use `/cover-letter` when the existing cover letter feels generic or you want a fresh start with personalized content.
+
 ## Usage
 
 ```
@@ -67,12 +93,20 @@ After seeing the "Tailor server ready" log, Claude should confirm the setup:
 📊 Validated 4 files with schema checks
 
 What would you like to work on? I can help you with:
-• Refine resume summary or professional experience
+
+**Resume:**
+• Refine summary or professional experience
 • Update technical skills and expertise
-• Improve cover letter content and tone
 • Add or modify achievements with metrics
-• Adjust job focus and requirements analysis
 • Review and optimize for ATS keywords
+
+**Cover Letter:**
+• Quick edits: Improve existing content and tone
+• Full rewrite: Run `/cover-letter [company-name]` for interactive co-authoring
+  → Researches company, interviews you about achievements, creates story-driven content
+
+**Other:**
+• Adjust job focus and requirements analysis
 • Generate PDF for final review
 ```
 
@@ -128,9 +162,11 @@ User: "Update the cover letter opening paragraph"
 Claude edits files in `resume-data/tailor/company-name/`:
 
 - `resume.yaml` - Professional experience, skills, summary
-- `cover_letter.yaml` - Cover letter content
+- `cover_letter.yaml` - Cover letter content (for quick edits; use `/cover-letter` for full rewrites)
 - `job_analysis.yaml` - Job requirements analysis
 - `metadata.yaml` - Company/position details
+
+**Note:** For creating a new cover letter or significant rewrites, recommend `/cover-letter [company-name]` which provides an interactive co-authoring experience with company research and achievement interviewing.
 
 ### Step 3: System Auto-Validates
 
