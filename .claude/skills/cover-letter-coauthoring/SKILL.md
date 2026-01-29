@@ -1,6 +1,6 @@
 ---
 name: cover-letter-coauthoring
-description: Create personalized, story-driven cover letters through interactive co-authoring. Use when user wants to write or improve a cover letter, invokes `/cover-letter [company]`, or needs help with job application letters. This skill conducts company research via WebSearch, interviews the user about achievements and motivations, and iteratively drafts content following the Cultivated Culture framework (story-driven openings, quantifiable achievements, authentic voice). Outputs schema-validated YAML for the claude-code-job-tailor system.
+description: Create personalized, story-driven cover letters through interactive co-authoring. Use when user wants to write or improve a cover letter, invokes `/cover-letter [company]`, or needs help with job application letters. This skill conducts company research via Perplexity API (perplexity_ask tool), interviews the user about achievements and motivations, and iteratively drafts content following the Cultivated Culture framework (story-driven openings, quantifiable achievements, authentic voice). Outputs schema-validated YAML for the claude-code-job-tailor system.
 ---
 
 # Cover Letter Co-Authoring
@@ -24,7 +24,7 @@ If missing, prompt user to run `/tailor [company-name]` first.
 ### Stage 1: Context Gathering
 
 1. **Load existing data** from prerequisite files
-2. **Research company** using WebSearch:
+2. **Research company** using `perplexity_ask` tool (Perplexity MCP server):
    - Recent news/announcements
    - Company values and culture
    - Recent initiatives
@@ -122,5 +122,5 @@ Before completion, verify:
 ## Error Handling
 
 **Missing prerequisites:** Prompt to run `/tailor [company-name]` first
-**Web search fails:** Proceed with job_analysis data and ask user for company context
+**Perplexity unavailable:** Proceed with job_analysis data and ask user for company context
 **Validation fails:** Read errors, fix YAML, re-validate
